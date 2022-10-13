@@ -1,8 +1,8 @@
 ### Hey there! I'm Gabriel 👋
 
 - 📚 High School
-- 🖥️ Studying HTML, CSS, JavaScript and Git
-- 🖊️ Interested in Bootstrap, Tailwind, jQuery, AngularJS, NextJS, NodeJS, ReactJS, Python, Ruby and Typescript
+- 🖥️ Studying HTML, CSS, JavaScript, Git, TypeScript, NodeJS, ReactJS, BootsTrap, TailwindCSS and SQL
+- 🖊️ Interested in NextJS
 
 <div>
   <a href="https://github.com/gabrielMendes21">
