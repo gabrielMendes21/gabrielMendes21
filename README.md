@@ -1,6 +1,6 @@
 # Hi! I'm Gabriel 👋
 
-- 📚 High School
+- 📚 Graduation
 
 ## 🖥️ Technologies
 
