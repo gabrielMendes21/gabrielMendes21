@@ -9,10 +9,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<!-- ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp; -->
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+<!-- ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp; -->
+<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; -->
 
 <div>
   <a href="https://github.com/gabrielMendes21">
